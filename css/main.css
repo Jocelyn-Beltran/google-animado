@@ -62,7 +62,7 @@ nav .nav-right-section img{
 
 main{
     text-align: center;
-    margin-top: 80px;
+    margin-top: 115px;
 }
 
 main .main-logo{
@@ -89,6 +89,7 @@ main .main-input-container{
     /*Bordes redondeados*/
     border-radius: 30px;
     width:525px ;
+    height:20px ;
 }
 
 main .main-input input{
